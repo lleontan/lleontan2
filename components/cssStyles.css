@@ -1,0 +1,21 @@
+.text-carousel {
+  border-style: "solid";
+  border-width: "3px";
+}
+.text-carousel-enter {
+  border-style: "solid";
+  border-width: "3px";
+}
+.text-carousel-active {
+  border-style: "solid";
+  border-width: "3px";
+  transition: "opacity 200ms";
+}
+.text-carousel-exit {
+  transition: "1";
+}
+.text-carousel-exit-active {
+    border-style: "solid";
+    border-width: "3px";
+    transition: "opacity 200ms";
+  }

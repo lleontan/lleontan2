@@ -15,9 +15,10 @@ export default function About() {
           source={require("../assets/images/ai_selfportrait.png")}
         ></Image>
 
-        <div style={{ ...styles.centeredText, ...styles.headingMed }}>
-          <h2>This is me</h2>
-          <p></p>
+        <div style={{ ...styles.centeredText }}>
+          <h2 style={styles.headingMed}>This is me</h2>
+          <p>I make a lot of AI art. Its really neat :)</p>
+          <p>No, you're not getting contact details</p>
         </div>
       </div>
     </View>

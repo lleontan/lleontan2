@@ -180,7 +180,7 @@ export default StyleSheet.create({
     marginLeft: "auto",
     marginRight: "auto",
     borderRadius: "50%",
-    borderWidth: "1px",
+    borderWidth: "0px",
     borderStyle: "solid",
   },
   centeredText: {
